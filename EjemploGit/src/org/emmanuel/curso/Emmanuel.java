@@ -1,6 +1,6 @@
 package org.emmanuel.curso;
 
-public class Comida {
+public class Emmanuel {
 	
 	public static void main(String... args)
 	{
